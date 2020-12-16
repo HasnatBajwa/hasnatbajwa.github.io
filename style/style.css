@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+.header{
+    text-align: center;  
+    background-color:rgb(227, 160, 25);  
+ margin-right:25px;
+    margin-left:12%;
+    margin-bottom: 10px;
+    margin-top:10px;
+    border: solid rgb(227, 160, 25);
+    border-radius: 10px;
+
+}
+img{
+float:left;
+width: 10%;
+height: 100px;
+margin-left: 10px;
+border: solid rgb(227, 160, 25);
+border-radius:100px;
+
+}
+.left{
+    float: left;
+    width:12%;
+    color:rgb(227, 160, 25) ;
+    border: solid rgb(227, 160, 25);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.right{
+    float:right;
+    margin-right: 25px;
+    width:85%;
+    background-color: rgb(227, 160, 25);
+    border-radius: 10px;
+}
+.title{
+    text-align: center;
+    
+}
