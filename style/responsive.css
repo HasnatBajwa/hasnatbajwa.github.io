@@ -1,0 +1,13 @@
+@media only screen and (max-width:833px) {
+
+    .left{
+        width: 100%;
+        overflow: scroll;
+        margin-bottom: 10px;
+    }
+    .right{
+        width: 100%;
+        overflow: scroll;
+        margin-left:500px;
+    }
+}

@@ -20,11 +20,11 @@ height: 100px;
 margin-left: 10px;
 border: solid rgb(227, 160, 25);
 border-radius:100px;
-
 }
 .left{
     float: left;
     width:12%;
+    height: 1000px;
     color:rgb(227, 160, 25) ;
     border: solid rgb(227, 160, 25);
     border-radius: 10px;
@@ -35,8 +35,11 @@ border-radius:100px;
     float:right;
     margin-right: 25px;
     width:85%;
+    height: 1000px;
     color: rgb(227, 160, 25);
-    border-radius: 10px; margin-bottom: 150px;
+    border: solid rgb(227, 160, 25);
+    border-radius: 10px; 
+    margin-bottom: 150px;
     
 }
 .title{
@@ -45,11 +48,12 @@ border-radius:100px;
 }
 .footer{
 text-align:center;
-margin-top:1000px;
+margin-top:1200px;
 background-color:rgb(227, 160, 25);
 border-radius: 10px; 
 margin-right: 200px;
 margin-left: 200px;
+overflow: hidden;
 
 }
 .profile{
